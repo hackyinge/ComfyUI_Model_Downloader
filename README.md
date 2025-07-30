@@ -44,16 +44,8 @@ brew install aria2
 
 ## 使用方法
 
-### 通过 UI 界面下载
-
-1. 在 ComfyUI 顶部菜单中点击"扩展"->"模型下载器"
-2. 输入模型的下载 URL（支持 Hugging Face 链接）
-3. 选择保存目录或输入自定义路径
-4. 选择是否使用镜像站点
-5. 设置下载线程数（默认为16）
-6. 点击"开始下载"按钮
-
 ### 通过工作流节点下载
+<img width="1450" height="1365" alt="image" src="https://github.com/user-attachments/assets/7b7209aa-aecd-40fc-b0ff-dd40c5d46107" />
 
 1. 在 ComfyUI 中添加 "Model Downloader" 节点
 2. 输入模型的下载 URL（支持 Hugging Face 链接）
@@ -61,6 +53,10 @@ brew install aria2
 4. 选择是否使用镜像站点
 5. 设置下载线程数（默认为16）
 6. 点击节点上的"开始下载"按钮
+<img width="2670" height="1780" alt="image" src="https://github.com/user-attachments/assets/8b1b75ce-99a5-4cb4-a2de-fb0cf6199ec9" />
+<img width="3133" height="1671" alt="image" src="https://github.com/user-attachments/assets/0118d2bf-634b-41c3-9cc1-5d6170a34792" />
+[download.json](https://github.com/user-attachments/files/21515921/download.json)
+
 
 ## 注意事项
 
