@@ -1,6 +1,6 @@
 # ComfyUI 模型下载插件
 
-这是一个用于 [ComfyUI](https://github.com/comfyanonymous/ComfyUI) 的插件，提供了一个简单的界面来下载模型文件，使用 aria2c 实现多线程下载，大大提高下载速度。
+这是一个用于 [ComfyUI](https://github.com/comfyanonymous/ComfyUI) 的插件，提供了一个节点下载模型文件，使用 aria2c 实现多线程下载，大大提高下载速度。
 
 ## 功能特点
 
@@ -17,9 +17,7 @@
 
 ```bash
 cd ComfyUI/custom_nodes/
-git clone https://github.com/yourusername/ComfyUI_Model_Download
-cd ComfyUI_Model_Download
-python install.py
+git clone https://github.com/hackyinge/ComfyUI_Model_Downloader.git
 ```
 
 ### 2. 安装 aria2c
