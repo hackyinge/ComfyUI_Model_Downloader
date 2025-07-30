@@ -55,7 +55,9 @@ brew install aria2
 6. 点击节点上的"开始下载"按钮
 <img width="2670" height="1780" alt="image" src="https://github.com/user-attachments/assets/8b1b75ce-99a5-4cb4-a2de-fb0cf6199ec9" />
 <img width="3133" height="1671" alt="image" src="https://github.com/user-attachments/assets/0118d2bf-634b-41c3-9cc1-5d6170a34792" />
-[download.json](https://github.com/user-attachments/files/21515921/download.json)
+
+## 工作流
+https://github.com/hackyinge/ComfyUI_Model_Downloader/blob/master/workflow/download.json
 
 
 ## 注意事项
