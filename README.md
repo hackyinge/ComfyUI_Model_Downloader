@@ -9,7 +9,7 @@
 - 支持自定义保存位置
 - 支持使用镜像站点（如 hf-mirror.com）加速下载
 - 可调节线程数以优化下载性能
-- 支持 Windows、Linux 和 macOS
+- 支持 Windows、Linux  （macOS还有点小问题需要解决）
 
 ## 安装方法
 
