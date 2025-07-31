@@ -52,7 +52,7 @@ brew install aria2
 3. 选择保存目录或输入自定义路径
 4. 选择是否使用镜像站点
 5. 设置下载线程数（默认为16）
-6. 点击节点上的"开始下载"按钮
+6. 运行工作流，开始下载
 <img width="2670" height="1780" alt="image" src="https://github.com/user-attachments/assets/8b1b75ce-99a5-4cb4-a2de-fb0cf6199ec9" />
 <img width="3133" height="1671" alt="image" src="https://github.com/user-attachments/assets/0118d2bf-634b-41c3-9cc1-5d6170a34792" />
 
